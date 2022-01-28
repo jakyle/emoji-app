@@ -8,5 +8,6 @@ namespace sick_emoji_2
 {
     internal class Smiley : AbstractEmoji
     {
+        public override string Emoji => "😊";
     }
 }

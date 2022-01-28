@@ -8,6 +8,6 @@ namespace sick_emoji_2
 {
     internal abstract class AbstractEmoji
     {
-        public string Emoji { get; set; }
+        public abstract string Emoji { get; }
     }
 }
