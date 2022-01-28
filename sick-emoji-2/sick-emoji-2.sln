@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sick-emoji-2", "sick-emoji-2\sick-emoji-2.csproj", "{BAFB3765-C17F-4348-A560-9B643EECE072}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiTests", "EmojiTests\EmojiTests.csproj", "{8A616D9F-732C-403F-AE13-A77BDA60FCE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BAFB3765-C17F-4348-A560-9B643EECE072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAFB3765-C17F-4348-A560-9B643EECE072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAFB3765-C17F-4348-A560-9B643EECE072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A616D9F-732C-403F-AE13-A77BDA60FCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A616D9F-732C-403F-AE13-A77BDA60FCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A616D9F-732C-403F-AE13-A77BDA60FCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A616D9F-732C-403F-AE13-A77BDA60FCE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

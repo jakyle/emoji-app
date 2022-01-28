@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace sick_emoji_2
 {
-    internal abstract class AbstractEmoji
+    public abstract class AbstractEmoji
     {
         public abstract string Emoji { get; }
     }
